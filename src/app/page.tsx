@@ -21,6 +21,7 @@ export default function Home() {
           <a
             href="#contact"
             className="inline-block bg-amber-700 hover:bg-amber-600 text-white px-8 py-4 rounded-sm tracking-wider transition-colors"
+            aria-label="ご予約・お問い合わせセクションへ移動"
           >
             ご予約はこちら
           </a>
